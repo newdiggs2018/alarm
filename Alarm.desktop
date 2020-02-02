@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Alarm
+Comment=Testing
+Exec=python /home/pi/ImpassaProject/pialarm.py
+Icon=/home/pi/ImpassaProject/alarm.jpg
+Path=/home/pi/ImpassaProject/
+Terminal=true
+Type=Application
+Categories=Utility;Application;
+Name[en_GB]=Alarm 
